@@ -1,0 +1,48 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.venv/
+*.egg-info/
+
+# Environment variables
+.env
+
+# Logs 
+logs/*.log
+*.log
+
+# Test files and debugging
+test_*.py
+debug_*.py
+debug_*.json
+*_test.py
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Database files (if using SQLite for testing)
+*.db
+*.sqlite
+*.sqlite3
